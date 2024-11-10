@@ -6,8 +6,6 @@ https://www.notion.so/FE-571e25f29d784e82b3e8d4ee2f49ab29?pvs=4
 
 - 해당 주차의 책 내용을 읽고 모르는 부분 조사
 
-- 깃허브 각 장 폴더 하위에 본인 이름의 markdown 파일 업로드
-
 - Notion으로 정리하였음 
 
 
