@@ -47,8 +47,8 @@ https://www.notion.so/FE-571e25f29d784e82b3e8d4ee2f49ab29?pvs=4
 
 ## 💻 스터디원
 
-| 김규란                                | 김도현                             | 김지호                                 | 김채리                                  | 장효령 |
-| ------------------------------------- | ---------------------------------- | -------------------------------------- | --------------------------------------- | ------ |
-| [Github](https://github.com/gyulhana) | [Github](https://github.com/DOACT) | [Github](https://github.com/JEEEEEEHO) | [Github](https://github.com/cherry2250) |        |
+| 김규란                                | 김도현                             | 김지호                                 | 김채리                                       | 장효령 |
+| ------------------------------------- | ---------------------------------- | -------------------------------------- | --------------------------------------- | ---------------------------------------  |
+| [Github](https://github.com/gyulhana) | [Github](https://github.com/DOACT) | [Github](https://github.com/JEEEEEEHO) | [Github](https://github.com/cherry2250) | [Github](https://github.com/hyo-ryeong)  |
 
 
